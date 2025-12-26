@@ -1,0 +1,7 @@
+1. Adding more data !
+2. Reducing the complexity of NN architecture
+3. Regularization
+4. Dropouts
+5. Data Augmentation
+6. Batch Normalization
+7. Early Stopping
